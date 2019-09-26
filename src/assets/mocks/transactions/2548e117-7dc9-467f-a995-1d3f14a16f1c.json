@@ -1,0 +1,193 @@
+{
+  "transactions": [
+    {
+      "entryReference": "52039ca2-d2e9-4568-a03b-a095c5ac8660",
+      "amount": {
+        "value": 1250,
+        "currency": "CZK"
+      },
+      "creditDebitIndicator": "DEBIT",
+      "reversalIndicator": null,
+      "status": "BOOK",
+      "bookingDate": "2019-09-25T11:45:22+02:00",
+      "valueDate": "2019-09-25T00:00:00+02:00",
+      "consolidatedDate": "2019-09-25T00:00:00+02:00",
+      "bankTransactionCode": "10000101000",
+      "detail": {
+        "accountServicerRefence": null,
+        "endToEndIdentification": "string",
+        "chequeNumber": null,
+        "instructedAmount": null,
+        "counterValueAmount": null,
+        "currencyExchange": null,
+        "proprietaryAmount": {
+          "value": null,
+          "currency": null,
+          "type": "proprietary_amount_type"
+        },
+        "chargeBearer": "DEBT",
+        "relatedParty": {
+          "debtor": {
+            "name": null,
+            "postalAddress": null,
+            "account": {
+              "iban": "CZ9708000000003031656073",
+              "local": null,
+              "maskedCardNumber": null
+            }
+          },
+          "creditor": {
+            "name": null,
+            "postalAddress": null,
+            "account": {
+              "iban": "CZ6901000001820001139071",
+              "local": null,
+              "maskedCardNumber": null
+            }
+          }
+        },
+        "relatedAgent": null,
+        "purpose": null,
+        "remittanceInformation": {
+          "unstructured": "Cash deposit",
+          "structured": {
+            "specificCode": null,
+            "variableCode": "1200939",
+            "constantCode": null
+          }
+        },
+        "additionalTransactionInformation": null
+      },
+      "syncId": "9f685d0f-9a86-4248-9f7a-e908d984a2e8",
+      "isPaired": true,
+      "created": "2019-09-25T12:29:17.065917+02:00",
+      "lastUpdate": "2019-09-25T19:39:24.660232+02:00"
+    },
+    {
+      "entryReference": "75c1a0ef-e611-4861-b623-3eb6772af104",
+      "amount": {
+        "value": 2,
+        "currency": "CZK"
+      },
+      "creditDebitIndicator": "DEBIT",
+      "reversalIndicator": null,
+      "status": "BOOK",
+      "bookingDate": "2019-09-24T00:00:00+02:00",
+      "valueDate": "2019-09-25T00:00:00+02:00",
+      "consolidatedDate": "2019-09-25T00:00:00+02:00",
+      "bankTransactionCode": "10000101000",
+      "detail": {
+        "accountServicerRefence": null,
+        "endToEndIdentification": "string",
+        "chequeNumber": null,
+        "instructedAmount": null,
+        "counterValueAmount": null,
+        "currencyExchange": null,
+        "proprietaryAmount": {
+          "value": null,
+          "currency": null,
+          "type": "proprietary_amount_type"
+        },
+        "chargeBearer": "DEBT",
+        "relatedParty": {
+          "debtor": {
+            "name": null,
+            "postalAddress": null,
+            "account": {
+              "iban": "CZ9708000000003031656073",
+              "local": null,
+              "maskedCardNumber": null
+            }
+          },
+          "creditor": {
+            "name": null,
+            "postalAddress": null,
+            "account": {
+              "iban": "CZ6901000001820001139071",
+              "local": null,
+              "maskedCardNumber": null
+            }
+          }
+        },
+        "relatedAgent": null,
+        "purpose": null,
+        "remittanceInformation": {
+          "unstructured": "Interest",
+          "structured": {
+            "specificCode": null,
+            "variableCode": "1200939",
+            "constantCode": null
+          }
+        },
+        "additionalTransactionInformation": null
+      },
+      "syncId": "9f685d0f-9a86-4248-9f7a-e908d984a2e8",
+      "isPaired": true,
+      "created": "2019-09-25T19:25:02.371985+02:00",
+      "lastUpdate": "2019-09-25T19:39:25.36678+02:00"
+    },
+    {
+      "entryReference": "8d8047c3-3d0b-4376-a98a-939fb93a4ad7",
+      "amount": {
+        "value": 100,
+        "currency": "CZK"
+      },
+      "creditDebitIndicator": "DEBIT",
+      "reversalIndicator": null,
+      "status": "BOOK",
+      "bookingDate": "2019-09-23T00:00:00+02:00",
+      "valueDate": "2019-09-25T00:00:00+02:00",
+      "consolidatedDate": "2019-09-25T00:00:00+02:00",
+      "bankTransactionCode": "10000101000",
+      "detail": {
+        "accountServicerRefence": null,
+        "endToEndIdentification": "string",
+        "chequeNumber": null,
+        "instructedAmount": null,
+        "counterValueAmount": null,
+        "currencyExchange": null,
+        "proprietaryAmount": {
+          "value": null,
+          "currency": null,
+          "type": "proprietary_amount_type"
+        },
+        "chargeBearer": "DEBT",
+        "relatedParty": {
+          "debtor": {
+            "name": null,
+            "postalAddress": null,
+            "account": {
+              "iban": "CZ9708000000003031656073",
+              "local": null,
+              "maskedCardNumber": null
+            }
+          },
+          "creditor": {
+            "name": null,
+            "postalAddress": null,
+            "account": {
+              "iban": "CZ6901000001820001139071",
+              "local": null,
+              "maskedCardNumber": null
+            }
+          }
+        },
+        "relatedAgent": null,
+        "purpose": null,
+        "remittanceInformation": {
+          "unstructured": null,
+          "structured": {
+            "specificCode": null,
+            "variableCode": "1200939",
+            "constantCode": null
+          }
+        },
+        "additionalTransactionInformation": null
+      },
+      "syncId": "9f685d0f-9a86-4248-9f7a-e908d984a2e8",
+      "isPaired": true,
+      "created": "2019-09-25T19:25:02.658905+02:00",
+      "lastUpdate": "2019-09-25T19:39:25.67991+02:00"
+    }
+  ]
+}

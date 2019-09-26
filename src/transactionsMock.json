@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "entryReference": "52039ca2-d2e9-4568-a03b-a095c5ac8660",
+      "amount": {
+        "value": 100,
+        "currency": "CZK"
+      },
+      "creditDebitIndicator": "DEBIT",
+      "reversalIndicator": null,
+      "status": "BOOK",
+      "bookingDate": "2019-09-25T00:00:00+02:00",
+      "valueDate": "2019-09-25T00:00:00+02:00",
+      "consolidatedDate": "2019-09-25T00:00:00+02:00",
+      "bankTransactionCode": "10000101000",
+      "detail": {
+        "accountServicerRefence": null,
+        "endToEndIdentification": "string",
+        "chequeNumber": null,
+        "instructedAmount": null,
+        "counterValueAmount": null,
+        "currencyExchange": null,
+        "proprietaryAmount": {
+          "value": null,
+          "currency": null,
+          "type": "proprietary_amount_type"
+        },
+        "chargeBearer": "DEBT",
+        "relatedParty": {
+          "debtor": {
+            "name": null,
+            "postalAddress": null,
+            "account": {
+              "iban": "CZ9708000000003031656073",
+              "local": null,
+              "maskedCardNumber": null
+            }
+          },
+          "creditor": {
+            "name": null,
+            "postalAddress": null,
+            "account": {
+              "iban": "CZ6901000001820001139071",
+              "local": null,
+              "maskedCardNumber": null
+            }
+          }
+        },
+        "relatedAgent": null,
+        "purpose": null,
+        "remittanceInformation": {
+          "unstructured": null,
+          "structured": {
+            "specificCode": null,
+            "variableCode": "1200939",
+            "constantCode": null
+          }
+        },
+        "additionalTransactionInformation": null
+      },
+      "syncId": "8d7af841-debb-447f-b80b-02e4e9892c71",
+      "isPaired": true,
+      "created": "2019-09-25T12:29:17.065917+02:00",
+      "lastUpdate": "2019-09-25T16:00:35.736869+02:00"
+    }
+  ],
+  "pageInfo": {
+    "page": 0,
+    "pageCount": 1,
+    "nextPage": null,
+    "pageSize": 1,
+    "totalCount": 1
+  }
+}
